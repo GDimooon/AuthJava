@@ -1,0 +1,79 @@
+G:\OOP\My_Curs\JSON\Project\JSON_DbGrid\bin\Debug\JSON_DbGrid.exe.config
+G:\OOP\My_Curs\JSON\Project\JSON_DbGrid\bin\Debug\JSON_DbGrid.exe
+G:\OOP\My_Curs\JSON\Project\JSON_DbGrid\bin\Debug\JSON_DbGrid.pdb
+G:\OOP\My_Curs\JSON\Project\JSON_DbGrid\bin\Debug\Newtonsoft.Json.dll
+G:\OOP\My_Curs\JSON\Project\JSON_DbGrid\obj\Debug\JSON_DbGrid.csprojResolveAssemblyReference.cache
+G:\OOP\My_Curs\JSON\Project\JSON_DbGrid\obj\Debug\JSON_DbGrid.Form1.resources
+G:\OOP\My_Curs\JSON\Project\JSON_DbGrid\obj\Debug\JSON_DbGrid.Properties.Resources.resources
+G:\OOP\My_Curs\JSON\Project\JSON_DbGrid\obj\Debug\JSON_DbGrid.csproj.GenerateResource.Cache
+G:\OOP\My_Curs\JSON\Project\JSON_DbGrid\obj\Debug\JSON_DbGrid.exe
+G:\OOP\My_Curs\JSON\Project\JSON_DbGrid\obj\Debug\JSON_DbGrid.pdb
+H:\OOP\My_Curs\JSON\Project\JSON_DbGrid\bin\Debug\JSON_DbGrid.exe.config
+H:\OOP\My_Curs\JSON\Project\JSON_DbGrid\obj\Debug\JSON_DbGrid.exe
+H:\OOP\My_Curs\JSON\Project\JSON_DbGrid\obj\Debug\JSON_DbGrid.pdb
+H:\OOP\My_Curs\JSON\Project\JSON_DbGrid\bin\Debug\JSON_DbGrid.exe
+H:\OOP\My_Curs\JSON\Project\JSON_DbGrid\bin\Debug\JSON_DbGrid.pdb
+H:\OOP\My_Curs\JSON\Project\JSON_DbGrid\bin\Debug\Newtonsoft.Json.dll
+H:\OOP\My_Curs\JSON\Project\JSON_DbGrid\obj\Debug\JSON_DbGrid.csprojResolveAssemblyReference.cache
+H:\OOP\My_Curs\JSON\Project\JSON_DbGrid\obj\Debug\JSON_DbGrid.Form1.resources
+H:\OOP\My_Curs\JSON\Project\JSON_DbGrid\obj\Debug\JSON_DbGrid.Properties.Resources.resources
+H:\OOP\My_Curs\JSON\Project\JSON_DbGrid\obj\Debug\JSON_DbGrid.csproj.GenerateResource.Cache
+D:\Projects\JSON\JSONFile\bin\Debug\JSON_DbGrid.exe.config
+D:\Projects\JSON\JSONFile\obj\Debug\JSON_DbGrid.exe
+D:\Projects\JSON\JSONFile\obj\Debug\JSON_DbGrid.pdb
+D:\Projects\JSON\JSONFile\bin\Debug\JSON_DbGrid.exe
+D:\Projects\JSON\JSONFile\bin\Debug\JSON_DbGrid.pdb
+D:\Projects\JSON\JSONFile\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\JSON\JSONFile\obj\Debug\JSON_DbGrid.csprojResolveAssemblyReference.cache
+D:\Projects\JSON\JSONFile\obj\Debug\JSON_DbGrid.Form1.resources
+D:\Projects\JSON\JSONFile\obj\Debug\JSON_DbGrid.Properties.Resources.resources
+D:\Projects\JSON\JSONFile\obj\Debug\JSON_DbGrid.csproj.GenerateResource.Cache
+C:\Users\Владелец\Downloads\JSONFile\JSONFile\bin\Debug\JSON_DbGrid.exe.config
+C:\Users\Владелец\Downloads\JSONFile\JSONFile\bin\Debug\JSON_DbGrid.exe
+C:\Users\Владелец\Downloads\JSONFile\JSONFile\bin\Debug\JSON_DbGrid.pdb
+C:\Users\Владелец\Downloads\JSONFile\JSONFile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Владелец\Downloads\JSONFile\JSONFile\obj\Debug\JSON_DbGrid.csproj.AssemblyReference.cache
+C:\Users\Владелец\Downloads\JSONFile\JSONFile\obj\Debug\JSON_DbGrid.Form1.resources
+C:\Users\Владелец\Downloads\JSONFile\JSONFile\obj\Debug\JSON_DbGrid.Properties.Resources.resources
+C:\Users\Владелец\Downloads\JSONFile\JSONFile\obj\Debug\JSON_DbGrid.csproj.GenerateResource.cache
+C:\Users\Владелец\Downloads\JSONFile\JSONFile\obj\Debug\JSON_DbGrid.csproj.CoreCompileInputs.cache
+C:\Users\Владелец\Downloads\JSONFile\JSONFile\obj\Debug\JSON_DbGrid.csproj.CopyComplete
+C:\Users\Владелец\Downloads\JSONFile\JSONFile\obj\Debug\JSON_DbGrid.exe
+C:\Users\Владелец\Downloads\JSONFile\JSONFile\obj\Debug\JSON_DbGrid.pdb
+\\FSStudy.marstu.net\Study\Пользователи\s1220511048\Рабочий стол\nov\JSONFile\bin\Debug\JSON_DbGrid.exe.config
+\\FSStudy.marstu.net\Study\Пользователи\s1220511048\Рабочий стол\nov\JSONFile\bin\Debug\JSON_DbGrid.exe
+\\FSStudy.marstu.net\Study\Пользователи\s1220511048\Рабочий стол\nov\JSONFile\bin\Debug\JSON_DbGrid.pdb
+\\FSStudy.marstu.net\Study\Пользователи\s1220511048\Рабочий стол\nov\JSONFile\bin\Debug\Newtonsoft.Json.dll
+\\FSStudy.marstu.net\Study\Пользователи\s1220511048\Рабочий стол\nov\JSONFile\obj\Debug\JSON_DbGrid.csprojAssemblyReference.cache
+\\FSStudy.marstu.net\Study\Пользователи\s1220511048\Рабочий стол\nov\JSONFile\obj\Debug\JSON_DbGrid.Form1.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1220511048\Рабочий стол\nov\JSONFile\obj\Debug\JSON_DbGrid.Properties.Resources.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1220511048\Рабочий стол\nov\JSONFile\obj\Debug\JSON_DbGrid.csproj.GenerateResource.cache
+\\FSStudy.marstu.net\Study\Пользователи\s1220511048\Рабочий стол\nov\JSONFile\obj\Debug\JSON_DbGrid.csproj.CoreCompileInputs.cache
+\\FSStudy.marstu.net\Study\Пользователи\s1220511048\Рабочий стол\nov\JSONFile\obj\Debug\JSON_DbGrid.csproj.CopyComplete
+\\FSStudy.marstu.net\Study\Пользователи\s1220511048\Рабочий стол\nov\JSONFile\obj\Debug\JSON_DbGrid.exe
+\\FSStudy.marstu.net\Study\Пользователи\s1220511048\Рабочий стол\nov\JSONFile\obj\Debug\JSON_DbGrid.pdb
+C:\Users\s1220511048\JSONFile\obj\Debug\JSON_DbGrid.csprojAssemblyReference.cache
+C:\Users\s1220511048\JSONFile\obj\Debug\JSON_DbGrid.exe
+C:\Users\s1220511048\JSONFile\obj\Debug\JSON_DbGrid.pdb
+C:\Users\s1220511048\JSONFile\bin\Debug\JSON_DbGrid.exe.config
+C:\Users\s1220511048\JSONFile\bin\Debug\JSON_DbGrid.exe
+C:\Users\s1220511048\JSONFile\bin\Debug\JSON_DbGrid.pdb
+C:\Users\s1220511048\JSONFile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\s1220511048\JSONFile\obj\Debug\JSON_DbGrid.Form1.resources
+C:\Users\s1220511048\JSONFile\obj\Debug\JSON_DbGrid.Properties.Resources.resources
+C:\Users\s1220511048\JSONFile\obj\Debug\JSON_DbGrid.csproj.GenerateResource.cache
+C:\Users\s1220511048\JSONFile\obj\Debug\JSON_DbGrid.csproj.CoreCompileInputs.cache
+C:\Users\s1220511048\JSONFile\obj\Debug\JSON_DbGrid.csproj.CopyComplete
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\JSONFile (1)\bin\Debug\JSON_DbGrid.exe.config
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\JSONFile (1)\bin\Debug\JSON_DbGrid.exe
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\JSONFile (1)\bin\Debug\JSON_DbGrid.pdb
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\JSONFile (1)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\JSONFile (1)\obj\Debug\JSON_DbGrid.csproj.AssemblyReference.cache
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\JSONFile (1)\obj\Debug\JSON_DbGrid.Form1.resources
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\JSONFile (1)\obj\Debug\JSON_DbGrid.Properties.Resources.resources
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\JSONFile (1)\obj\Debug\JSON_DbGrid.csproj.GenerateResource.cache
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\JSONFile (1)\obj\Debug\JSON_DbGrid.csproj.CoreCompileInputs.cache
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\JSONFile (1)\obj\Debug\JSON_DbGrid.csproj.CopyComplete
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\JSONFile (1)\obj\Debug\JSON_DbGrid.exe
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\JSONFile (1)\obj\Debug\JSON_DbGrid.pdb
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\JSONFile (1)\obj\Debug\MuseumApp.Exhibit.resources

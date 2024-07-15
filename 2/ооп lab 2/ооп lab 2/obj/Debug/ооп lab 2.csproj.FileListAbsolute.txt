@@ -1,0 +1,44 @@
+C:\Users\Сапожникова Саша\source\repos\ооп lab 2\ооп lab 2\bin\Debug\ооп lab 2.exe.config
+C:\Users\Сапожникова Саша\source\repos\ооп lab 2\ооп lab 2\bin\Debug\ооп lab 2.exe
+C:\Users\Сапожникова Саша\source\repos\ооп lab 2\ооп lab 2\bin\Debug\ооп lab 2.pdb
+C:\Users\Сапожникова Саша\source\repos\ооп lab 2\ооп lab 2\obj\Debug\ооп lab 2.csproj.AssemblyReference.cache
+C:\Users\Сапожникова Саша\source\repos\ооп lab 2\ооп lab 2\obj\Debug\ооп lab 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сапожникова Саша\source\repos\ооп lab 2\ооп lab 2\obj\Debug\ооп_lab_2.Form1.resources
+C:\Users\Сапожникова Саша\source\repos\ооп lab 2\ооп lab 2\obj\Debug\ооп_lab_2.Form2.resources
+C:\Users\Сапожникова Саша\source\repos\ооп lab 2\ооп lab 2\obj\Debug\ооп_lab_2.Properties.Resources.resources
+C:\Users\Сапожникова Саша\source\repos\ооп lab 2\ооп lab 2\obj\Debug\ооп lab 2.csproj.GenerateResource.cache
+C:\Users\Сапожникова Саша\source\repos\ооп lab 2\ооп lab 2\obj\Debug\ооп lab 2.csproj.CoreCompileInputs.cache
+C:\Users\Сапожникова Саша\source\repos\ооп lab 2\ооп lab 2\obj\Debug\ооп lab 2.exe
+C:\Users\Сапожникова Саша\source\repos\ооп lab 2\ооп lab 2\obj\Debug\ооп lab 2.pdb
+C:\Users\Сапожникова Саша\source\repos\ооп lab 2\ооп lab 2\obj\Debug\ооп_lab_2.Form3.resources
+C:\Users\Сапожникова Саша\source\repos\ооп lab 2\ооп lab 2\obj\Debug\ооп_lab_2.Form4.resources
+C:\Users\Сапожникова Саша\source\repos\ооп lab 2\ооп lab 2\obj\Debug\ооп_lab_2.Form5.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\2\ооп lab 2\ооп lab 2\bin\Debug\ооп lab 2.exe.config
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\2\ооп lab 2\ооп lab 2\bin\Debug\ооп lab 2.exe
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\2\ооп lab 2\ооп lab 2\bin\Debug\ооп lab 2.pdb
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп lab 2.csproj.AssemblyReference.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп lab 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп_lab_2.Form1.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп_lab_2.Form2.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп_lab_2.Form3.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп_lab_2.Form4.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп_lab_2.Form5.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп_lab_2.Properties.Resources.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп lab 2.csproj.GenerateResource.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп lab 2.csproj.CoreCompileInputs.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп lab 2.exe
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп lab 2.pdb
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп lab 2.csproj.AssemblyReference.cache
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп_lab_2.Form1.resources
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп_lab_2.Form2.resources
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп_lab_2.Form3.resources
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп_lab_2.Form4.resources
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп_lab_2.Form5.resources
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп_lab_2.Properties.Resources.resources
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп lab 2.csproj.GenerateResource.cache
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп lab 2.csproj.CoreCompileInputs.cache
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп lab 2.exe
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\2\ооп lab 2\ооп lab 2\obj\Debug\ооп lab 2.pdb
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\2\ооп lab 2\ооп lab 2\bin\Debug\ооп lab 2.exe.config
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\2\ооп lab 2\ооп lab 2\bin\Debug\ооп lab 2.exe
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\2\ооп lab 2\ооп lab 2\bin\Debug\ооп lab 2.pdb

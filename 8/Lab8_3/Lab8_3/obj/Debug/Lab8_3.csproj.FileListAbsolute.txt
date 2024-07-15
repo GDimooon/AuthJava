@@ -1,0 +1,20 @@
+C:\Users\Fin\RiderProjects\Lab8_3\Lab8_3\bin\Debug\Lab8_3.exe.config
+C:\Users\Fin\RiderProjects\Lab8_3\Lab8_3\bin\Debug\Lab8_3.exe
+C:\Users\Fin\RiderProjects\Lab8_3\Lab8_3\bin\Debug\Lab8_3.pdb
+C:\Users\Fin\RiderProjects\Lab8_3\Lab8_3\obj\Debug\Lab8_3.csproj.AssemblyReference.cache
+C:\Users\Fin\RiderProjects\Lab8_3\Lab8_3\obj\Debug\Lab8_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fin\RiderProjects\Lab8_3\Lab8_3\obj\Debug\Lab8_3.Properties.Resources.resources
+C:\Users\Fin\RiderProjects\Lab8_3\Lab8_3\obj\Debug\Lab8_3.csproj.GenerateResource.cache
+C:\Users\Fin\RiderProjects\Lab8_3\Lab8_3\obj\Debug\Lab8_3.csproj.CoreCompileInputs.cache
+C:\Users\Fin\RiderProjects\Lab8_3\Lab8_3\obj\Debug\Lab8_3.exe
+C:\Users\Fin\RiderProjects\Lab8_3\Lab8_3\obj\Debug\Lab8_3.pdb
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\ООП 7 и 8\Lab8_3\Lab8_3\bin\Debug\Lab8_3.exe.config
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\ООП 7 и 8\Lab8_3\Lab8_3\bin\Debug\Lab8_3.exe
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\ООП 7 и 8\Lab8_3\Lab8_3\bin\Debug\Lab8_3.pdb
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\ООП 7 и 8\Lab8_3\Lab8_3\obj\Debug\Lab8_3.csproj.AssemblyReference.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\ООП 7 и 8\Lab8_3\Lab8_3\obj\Debug\Lab8_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\ООП 7 и 8\Lab8_3\Lab8_3\obj\Debug\Lab8_3.Properties.Resources.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\ООП 7 и 8\Lab8_3\Lab8_3\obj\Debug\Lab8_3.csproj.GenerateResource.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\ООП 7 и 8\Lab8_3\Lab8_3\obj\Debug\Lab8_3.csproj.CoreCompileInputs.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\ООП 7 и 8\Lab8_3\Lab8_3\obj\Debug\Lab8_3.exe
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\ООП 7 и 8\Lab8_3\Lab8_3\obj\Debug\Lab8_3.pdb

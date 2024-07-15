@@ -1,0 +1,41 @@
+C:\Users\Сапожникова Саша\source\repos\laba 6\laba 6\bin\Debug\laba 6.exe.config
+C:\Users\Сапожникова Саша\source\repos\laba 6\laba 6\bin\Debug\laba 6.exe
+C:\Users\Сапожникова Саша\source\repos\laba 6\laba 6\bin\Debug\laba 6.pdb
+C:\Users\Сапожникова Саша\source\repos\laba 6\laba 6\obj\Debug\laba 6.csproj.AssemblyReference.cache
+C:\Users\Сапожникова Саша\source\repos\laba 6\laba 6\obj\Debug\laba 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сапожникова Саша\source\repos\laba 6\laba 6\obj\Debug\laba_6.Form1.resources
+C:\Users\Сапожникова Саша\source\repos\laba 6\laba 6\obj\Debug\laba_6.Properties.Resources.resources
+C:\Users\Сапожникова Саша\source\repos\laba 6\laba 6\obj\Debug\laba_6.task1Form.resources
+C:\Users\Сапожникова Саша\source\repos\laba 6\laba 6\obj\Debug\laba_6.task2Form.resources
+C:\Users\Сапожникова Саша\source\repos\laba 6\laba 6\obj\Debug\laba 6.csproj.GenerateResource.cache
+C:\Users\Сапожникова Саша\source\repos\laba 6\laba 6\obj\Debug\laba 6.csproj.CoreCompileInputs.cache
+C:\Users\Сапожникова Саша\source\repos\laba 6\laba 6\obj\Debug\laba 6.exe
+C:\Users\Сапожникова Саша\source\repos\laba 6\laba 6\obj\Debug\laba 6.pdb
+C:\Users\Сапожникова Саша\source\repos\laba 6\laba 6\obj\Debug\laba_6.graphsForm.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\6\laba 6\laba 6\bin\Debug\laba 6.exe.config
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\6\laba 6\laba 6\bin\Debug\laba 6.exe
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\6\laba 6\laba 6\bin\Debug\laba 6.pdb
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\6\laba 6\laba 6\obj\Debug\laba 6.csproj.AssemblyReference.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\6\laba 6\laba 6\obj\Debug\laba 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\6\laba 6\laba 6\obj\Debug\laba_6.Form1.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\6\laba 6\laba 6\obj\Debug\laba_6.graphsForm.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\6\laba 6\laba 6\obj\Debug\laba_6.Properties.Resources.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\6\laba 6\laba 6\obj\Debug\laba_6.task1Form.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\6\laba 6\laba 6\obj\Debug\laba_6.task2Form.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\6\laba 6\laba 6\obj\Debug\laba 6.csproj.GenerateResource.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\6\laba 6\laba 6\obj\Debug\laba 6.csproj.CoreCompileInputs.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\6\laba 6\laba 6\obj\Debug\laba 6.exe
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\6\laba 6\laba 6\obj\Debug\laba 6.pdb
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\6\laba 6\laba 6\obj\Debug\laba 6.csproj.AssemblyReference.cache
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\6\laba 6\laba 6\obj\Debug\laba_6.Form1.resources
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\6\laba 6\laba 6\obj\Debug\laba_6.graphsForm.resources
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\6\laba 6\laba 6\obj\Debug\laba_6.Properties.Resources.resources
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\6\laba 6\laba 6\obj\Debug\laba_6.task1Form.resources
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\6\laba 6\laba 6\obj\Debug\laba_6.task2Form.resources
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\6\laba 6\laba 6\obj\Debug\laba 6.csproj.GenerateResource.cache
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\6\laba 6\laba 6\obj\Debug\laba 6.csproj.CoreCompileInputs.cache
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\6\laba 6\laba 6\obj\Debug\laba 6.exe
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\6\laba 6\laba 6\obj\Debug\laba 6.pdb
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\6\laba 6\laba 6\bin\Debug\laba 6.exe.config
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\6\laba 6\laba 6\bin\Debug\laba 6.exe
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\6\laba 6\laba 6\bin\Debug\laba 6.pdb

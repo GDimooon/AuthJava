@@ -1,0 +1,30 @@
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\bin\Debug\Lab8_4.exe.config
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\bin\Debug\Lab8_4.exe
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\bin\Debug\Lab8_4.pdb
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\obj\Debug\Lab8_4.csproj.AssemblyReference.cache
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\obj\Debug\Lab8_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\obj\Debug\Lab8_4.Properties.Resources.resources
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\obj\Debug\Lab8_4.csproj.GenerateResource.cache
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\obj\Debug\Lab8_4.csproj.CoreCompileInputs.cache
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\obj\Debug\Lab8_4.exe
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\obj\Debug\Lab8_4.pdb
+C:\Users\Сапожникова Саша\Desktop\О_0\ООП 7 и 8\Lab8_4\Lab8_4\bin\Debug\Lab8_4.exe.config
+C:\Users\Сапожникова Саша\Desktop\О_0\ООП 7 и 8\Lab8_4\Lab8_4\bin\Debug\Lab8_4.exe
+C:\Users\Сапожникова Саша\Desktop\О_0\ООП 7 и 8\Lab8_4\Lab8_4\bin\Debug\Lab8_4.pdb
+C:\Users\Сапожникова Саша\Desktop\О_0\ООП 7 и 8\Lab8_4\Lab8_4\obj\Debug\Lab8_4.csproj.AssemblyReference.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ООП 7 и 8\Lab8_4\Lab8_4\obj\Debug\Lab8_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ООП 7 и 8\Lab8_4\Lab8_4\obj\Debug\Lab8_4.Properties.Resources.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ООП 7 и 8\Lab8_4\Lab8_4\obj\Debug\Lab8_4.csproj.GenerateResource.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ООП 7 и 8\Lab8_4\Lab8_4\obj\Debug\Lab8_4.csproj.CoreCompileInputs.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ООП 7 и 8\Lab8_4\Lab8_4\obj\Debug\Lab8_4.exe
+C:\Users\Сапожникова Саша\Desktop\О_0\ООП 7 и 8\Lab8_4\Lab8_4\obj\Debug\Lab8_4.pdb
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\8\Lab8_4\Lab8_4\bin\Debug\Lab8_4.exe.config
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\8\Lab8_4\Lab8_4\bin\Debug\Lab8_4.exe
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\8\Lab8_4\Lab8_4\bin\Debug\Lab8_4.pdb
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\8\Lab8_4\Lab8_4\obj\Debug\Lab8_4.csproj.AssemblyReference.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\8\Lab8_4\Lab8_4\obj\Debug\Lab8_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\8\Lab8_4\Lab8_4\obj\Debug\Lab8_4.Properties.Resources.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\8\Lab8_4\Lab8_4\obj\Debug\Lab8_4.csproj.GenerateResource.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\8\Lab8_4\Lab8_4\obj\Debug\Lab8_4.csproj.CoreCompileInputs.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\8\Lab8_4\Lab8_4\obj\Debug\Lab8_4.exe
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\8\Lab8_4\Lab8_4\obj\Debug\Lab8_4.pdb

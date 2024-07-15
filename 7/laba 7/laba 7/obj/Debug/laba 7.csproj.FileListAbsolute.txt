@@ -1,0 +1,26 @@
+C:\Users\Сапожникова Саша\source\repos\laba 7\laba 7\bin\Debug\laba 7.exe.config
+C:\Users\Сапожникова Саша\source\repos\laba 7\laba 7\bin\Debug\laba 7.exe
+C:\Users\Сапожникова Саша\source\repos\laba 7\laba 7\bin\Debug\laba 7.pdb
+C:\Users\Сапожникова Саша\source\repos\laba 7\laba 7\obj\Debug\laba 7.csproj.AssemblyReference.cache
+C:\Users\Сапожникова Саша\source\repos\laba 7\laba 7\obj\Debug\laba 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сапожникова Саша\source\repos\laba 7\laba 7\obj\Debug\laba_7.Form1.resources
+C:\Users\Сапожникова Саша\source\repos\laba 7\laba 7\obj\Debug\laba_7.Properties.Resources.resources
+C:\Users\Сапожникова Саша\source\repos\laba 7\laba 7\obj\Debug\laba 7.csproj.GenerateResource.cache
+C:\Users\Сапожникова Саша\source\repos\laba 7\laba 7\obj\Debug\laba 7.csproj.CoreCompileInputs.cache
+C:\Users\Сапожникова Саша\source\repos\laba 7\laba 7\obj\Debug\laba 7.exe
+C:\Users\Сапожникова Саша\source\repos\laba 7\laba 7\obj\Debug\laba 7.pdb
+C:\Users\Сапожникова Саша\source\repos\laba 7\laba 7\obj\Debug\laba_7.task1Form.resources
+C:\Users\Сапожникова Саша\source\repos\laba 7\laba 7\obj\Debug\laba_7.task2Form.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\7\laba 7\laba 7\bin\Debug\laba 7.exe.config
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\7\laba 7\laba 7\bin\Debug\laba 7.exe
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\7\laba 7\laba 7\bin\Debug\laba 7.pdb
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\7\laba 7\laba 7\obj\Debug\laba 7.csproj.AssemblyReference.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\7\laba 7\laba 7\obj\Debug\laba 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\7\laba 7\laba 7\obj\Debug\laba_7.Form1.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\7\laba 7\laba 7\obj\Debug\laba_7.Properties.Resources.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\7\laba 7\laba 7\obj\Debug\laba_7.task1Form.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\7\laba 7\laba 7\obj\Debug\laba_7.task2Form.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\7\laba 7\laba 7\obj\Debug\laba 7.csproj.GenerateResource.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\7\laba 7\laba 7\obj\Debug\laba 7.csproj.CoreCompileInputs.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\7\laba 7\laba 7\obj\Debug\laba 7.exe
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\7\laba 7\laba 7\obj\Debug\laba 7.pdb

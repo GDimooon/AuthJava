@@ -1,0 +1,32 @@
+C:\Users\Сапожникова Саша\source\repos\lab 3.1\lab 3.1\bin\Debug\lab 3.1.exe.config
+C:\Users\Сапожникова Саша\source\repos\lab 3.1\lab 3.1\bin\Debug\lab 3.1.exe
+C:\Users\Сапожникова Саша\source\repos\lab 3.1\lab 3.1\bin\Debug\lab 3.1.pdb
+C:\Users\Сапожникова Саша\source\repos\lab 3.1\lab 3.1\obj\Debug\lab 3.1.csproj.AssemblyReference.cache
+C:\Users\Сапожникова Саша\source\repos\lab 3.1\lab 3.1\obj\Debug\lab 3.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сапожникова Саша\source\repos\lab 3.1\lab 3.1\obj\Debug\lab_3._1.Form1.resources
+C:\Users\Сапожникова Саша\source\repos\lab 3.1\lab 3.1\obj\Debug\lab_3._1.Properties.Resources.resources
+C:\Users\Сапожникова Саша\source\repos\lab 3.1\lab 3.1\obj\Debug\lab 3.1.csproj.GenerateResource.cache
+C:\Users\Сапожникова Саша\source\repos\lab 3.1\lab 3.1\obj\Debug\lab 3.1.csproj.CoreCompileInputs.cache
+C:\Users\Сапожникова Саша\source\repos\lab 3.1\lab 3.1\obj\Debug\lab 3.1.exe
+C:\Users\Сапожникова Саша\source\repos\lab 3.1\lab 3.1\obj\Debug\lab 3.1.pdb
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\3\lab 3.1\lab 3.1\bin\Debug\lab 3.1.exe.config
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\3\lab 3.1\lab 3.1\bin\Debug\lab 3.1.exe
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\3\lab 3.1\lab 3.1\bin\Debug\lab 3.1.pdb
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\3\lab 3.1\lab 3.1\obj\Debug\lab 3.1.csproj.AssemblyReference.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\3\lab 3.1\lab 3.1\obj\Debug\lab 3.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\3\lab 3.1\lab 3.1\obj\Debug\lab_3._1.Form1.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\3\lab 3.1\lab 3.1\obj\Debug\lab_3._1.Properties.Resources.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\3\lab 3.1\lab 3.1\obj\Debug\lab 3.1.csproj.GenerateResource.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\3\lab 3.1\lab 3.1\obj\Debug\lab 3.1.csproj.CoreCompileInputs.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\3\lab 3.1\lab 3.1\obj\Debug\lab 3.1.exe
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\3\lab 3.1\lab 3.1\obj\Debug\lab 3.1.pdb
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\3\lab 3.1\lab 3.1\bin\Debug\lab 3.1.exe.config
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\3\lab 3.1\lab 3.1\bin\Debug\lab 3.1.exe
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\3\lab 3.1\lab 3.1\bin\Debug\lab 3.1.pdb
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\3\lab 3.1\lab 3.1\obj\Debug\lab 3.1.csproj.AssemblyReference.cache
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\3\lab 3.1\lab 3.1\obj\Debug\lab_3._1.Form1.resources
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\3\lab 3.1\lab 3.1\obj\Debug\lab_3._1.Properties.Resources.resources
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\3\lab 3.1\lab 3.1\obj\Debug\lab 3.1.csproj.GenerateResource.cache
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\3\lab 3.1\lab 3.1\obj\Debug\lab 3.1.csproj.CoreCompileInputs.cache
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\3\lab 3.1\lab 3.1\obj\Debug\lab 3.1.exe
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\3\lab 3.1\lab 3.1\obj\Debug\lab 3.1.pdb

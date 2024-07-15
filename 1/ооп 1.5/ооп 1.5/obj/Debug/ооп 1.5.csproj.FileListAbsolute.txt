@@ -1,0 +1,16 @@
+C:\Users\Сапожникова Саша\source\repos\ооп 1.5\ооп 1.5\bin\Debug\ооп 1.5.exe.config
+C:\Users\Сапожникова Саша\source\repos\ооп 1.5\ооп 1.5\bin\Debug\ооп 1.5.exe
+C:\Users\Сапожникова Саша\source\repos\ооп 1.5\ооп 1.5\bin\Debug\ооп 1.5.pdb
+C:\Users\Сапожникова Саша\source\repos\ооп 1.5\ооп 1.5\obj\Debug\ооп 1.5.csproj.AssemblyReference.cache
+C:\Users\Сапожникова Саша\source\repos\ооп 1.5\ооп 1.5\obj\Debug\ооп 1.5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сапожникова Саша\source\repos\ооп 1.5\ооп 1.5\obj\Debug\ооп 1.5.csproj.CoreCompileInputs.cache
+C:\Users\Сапожникова Саша\source\repos\ооп 1.5\ооп 1.5\obj\Debug\ооп 1.5.exe
+C:\Users\Сапожникова Саша\source\repos\ооп 1.5\ооп 1.5\obj\Debug\ооп 1.5.pdb
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\1\ооп 1.5\ооп 1.5\bin\Debug\ооп 1.5.exe.config
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\1\ооп 1.5\ооп 1.5\bin\Debug\ооп 1.5.exe
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\1\ооп 1.5\ооп 1.5\bin\Debug\ооп 1.5.pdb
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\1\ооп 1.5\ооп 1.5\obj\Debug\ооп 1.5.csproj.AssemblyReference.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\1\ооп 1.5\ооп 1.5\obj\Debug\ооп 1.5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\1\ооп 1.5\ооп 1.5\obj\Debug\ооп 1.5.csproj.CoreCompileInputs.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\1\ооп 1.5\ооп 1.5\obj\Debug\ооп 1.5.exe
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\1\ооп 1.5\ооп 1.5\obj\Debug\ооп 1.5.pdb

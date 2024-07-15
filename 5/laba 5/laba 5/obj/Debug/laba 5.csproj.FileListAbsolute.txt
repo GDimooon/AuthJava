@@ -1,0 +1,32 @@
+C:\Users\Сапожникова Саша\source\repos\laba 5\laba 5\bin\Debug\laba 5.exe.config
+C:\Users\Сапожникова Саша\source\repos\laba 5\laba 5\bin\Debug\laba 5.exe
+C:\Users\Сапожникова Саша\source\repos\laba 5\laba 5\bin\Debug\laba 5.pdb
+C:\Users\Сапожникова Саша\source\repos\laba 5\laba 5\obj\Debug\laba 5.csproj.AssemblyReference.cache
+C:\Users\Сапожникова Саша\source\repos\laba 5\laba 5\obj\Debug\laba 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сапожникова Саша\source\repos\laba 5\laba 5\obj\Debug\laba_5.Form1.resources
+C:\Users\Сапожникова Саша\source\repos\laba 5\laba 5\obj\Debug\laba_5.Properties.Resources.resources
+C:\Users\Сапожникова Саша\source\repos\laba 5\laba 5\obj\Debug\laba 5.csproj.GenerateResource.cache
+C:\Users\Сапожникова Саша\source\repos\laba 5\laba 5\obj\Debug\laba 5.csproj.CoreCompileInputs.cache
+C:\Users\Сапожникова Саша\source\repos\laba 5\laba 5\obj\Debug\laba 5.exe
+C:\Users\Сапожникова Саша\source\repos\laba 5\laba 5\obj\Debug\laba 5.pdb
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\5\laba 5\laba 5\bin\Debug\laba 5.exe.config
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\5\laba 5\laba 5\bin\Debug\laba 5.exe
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\5\laba 5\laba 5\bin\Debug\laba 5.pdb
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\5\laba 5\laba 5\obj\Debug\laba 5.csproj.AssemblyReference.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\5\laba 5\laba 5\obj\Debug\laba 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\5\laba 5\laba 5\obj\Debug\laba_5.Form1.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\5\laba 5\laba 5\obj\Debug\laba_5.Properties.Resources.resources
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\5\laba 5\laba 5\obj\Debug\laba 5.csproj.GenerateResource.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\5\laba 5\laba 5\obj\Debug\laba 5.csproj.CoreCompileInputs.cache
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\5\laba 5\laba 5\obj\Debug\laba 5.exe
+C:\Users\Сапожникова Саша\Desktop\О_0\ооп\5\laba 5\laba 5\obj\Debug\laba 5.pdb
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\5\laba 5\laba 5\bin\Debug\laba 5.exe.config
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\5\laba 5\laba 5\bin\Debug\laba 5.exe
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\5\laba 5\laba 5\bin\Debug\laba 5.pdb
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\5\laba 5\laba 5\obj\Debug\laba 5.csproj.AssemblyReference.cache
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\5\laba 5\laba 5\obj\Debug\laba_5.Form1.resources
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\5\laba 5\laba 5\obj\Debug\laba_5.Properties.Resources.resources
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\5\laba 5\laba 5\obj\Debug\laba 5.csproj.GenerateResource.cache
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\5\laba 5\laba 5\obj\Debug\laba 5.csproj.CoreCompileInputs.cache
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\5\laba 5\laba 5\obj\Debug\laba 5.exe
+C:\Users\Владелец\OneDrive\Рабочий стол\Лабы\ооп\5\laba 5\laba 5\obj\Debug\laba 5.pdb

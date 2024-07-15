@@ -1,0 +1,8 @@
+C:\Users\Сапожникова Саша\source\repos\ооп1.1\ооп1.1\obj\Debug\ооп1.1.csproj.AssemblyReference.cache
+C:\Users\Сапожникова Саша\source\repos\ооп1.1\ооп1.1\obj\Debug\ооп1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сапожникова Саша\source\repos\ооп1.1\ооп1.1\obj\Debug\ооп1.1.csproj.CoreCompileInputs.cache
+C:\Users\Сапожникова Саша\source\repos\ооп1.1\ооп1.1\bin\Debug\ооп1.1.exe.config
+C:\Users\Сапожникова Саша\source\repos\ооп1.1\ооп1.1\bin\Debug\ооп1.1.exe
+C:\Users\Сапожникова Саша\source\repos\ооп1.1\ооп1.1\bin\Debug\ооп1.1.pdb
+C:\Users\Сапожникова Саша\source\repos\ооп1.1\ооп1.1\obj\Debug\ооп1.1.exe
+C:\Users\Сапожникова Саша\source\repos\ооп1.1\ооп1.1\obj\Debug\ооп1.1.pdb
